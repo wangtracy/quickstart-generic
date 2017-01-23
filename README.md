@@ -1,2 +1,1 @@
 # quickstart-generic
-test
